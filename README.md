@@ -4,3 +4,8 @@ Here you are , i made a :
 1.Python script : using Selenium lib and other libs to control the browser and HTML/CSS Shown 
 2.Script shell :  remove all browse trace in your processor ( you can't connect with Whatsapp web in 2 pages )
 3.Crontab : specifying the time to execute the scrip
+
+--------------------------------------------------------------------------------------------------------------
+#CronTab
+![alt text](https://raw.githubusercontent.com/Vvoox/QuoteBot_Instagram/master/QuoteBot_Instagram/Crontab/crontab.png)
+
