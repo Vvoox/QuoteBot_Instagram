@@ -7,5 +7,7 @@ Here you are , i made a :
 
 --------------------------------------------------------------------------------------------------------------
 #CronTab
+Example for setting execution time for the application :
+
 ![alt text](https://raw.githubusercontent.com/Vvoox/QuoteBot_Instagram/master/QuoteBot_Instagram/Crontab/crontab.png)
 
